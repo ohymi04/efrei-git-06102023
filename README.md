@@ -6,4 +6,5 @@ Nous venons de créer notre fichier .env afin d'y stocker les différentes varia
 
 Ceci est une modification qui n'existe pour le moment que dans la branche development. Par la suite, cette branche sera fusionnée dans la branche main et cette modification apparaîtra sur les deux branches. 
 
-Ceci est une modification temporaire.
+Ceci est une modification temporaire...
+
